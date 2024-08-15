@@ -1,0 +1,14 @@
+.formInput {
+  border: 0.4px solid #a0a2a3ae;
+  outline: 0.5px solid #a0a2a3ae;
+  padding: 8px 12px;
+  font-family: sans-serif;
+}
+
+.formContainer {
+  width: 75%;
+}
+
+.bgColor {
+  background-color: black;
+}

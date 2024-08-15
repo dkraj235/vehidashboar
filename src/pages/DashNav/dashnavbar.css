@@ -1,0 +1,33 @@
+.dashNav {
+  width: 100%;
+  margin-bottom: 0;
+  margin-left: 0;
+  padding-left: 0;
+  height: 80px;
+  margin-bottom: 20px;
+  box-shadow: 0 5px 0 rgba(246, 149, 2, 0.5);
+
+  /* position: fixed;
+  top: 0;
+  left: 0;
+  height: 50px;
+  z-index: 1000; */
+}
+
+.icon {
+  font-size: 20px;
+  color: #000;
+}
+.iconClr {
+  font-size: 20px;
+}
+
+.search {
+  border: 0.5px solid lightgray;
+}
+
+.counter {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+}
